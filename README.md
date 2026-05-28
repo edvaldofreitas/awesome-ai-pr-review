@@ -11,6 +11,7 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [CodeReviewBot](https://codereviewbot.ai) - Code review bot that provides automated feedback on pull requests.
 - [Gito](https://github.com/Nayjest/Gito) - Reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 - [Glide](https://useglide.ai) - Structured pull request walkthroughs.
+- [Kodus](https://kodus.io/) - Open source AI code review platform for pull requests with repository context, custom rules, and BYOK support.
 - [Perfect.Codes](https://perfect.codes) - Gets your bugs fixed quickly by tech experts.
 
 ## Code Completion Tools
